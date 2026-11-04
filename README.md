@@ -1,20 +1,34 @@
-# Academic Geoscience & Planetary Projects
+Kiran Radway academic projects Portfolio
 
-Welcome to my portfolio. This repository contains selected academic reports, GIS mapping projects, and planetary science research completed during my studies at Arizona State University (ASU) and the University of Manchester.
+Welcome to my academic portfolio. This repository highlights key projects completed during my studies at **University of Manchester** and the **Arizona State University**, showcasing my expertise in planetary science, GIS spatial analysis, and field mapping.
 
-## Projects Included
+---
 
-### 1. Lunar Crater Morphometric Analysis
-* **Overview:** A detailed analysis of lunar cratering mechanics and surface dynamics.
-* **Skills/Tools:** Lunar QuickMap, Planetary Geology, Impact Cratering Analysis.
-* **File:** `lunar craters project final 2.pdf`
+## 1. Lunar Crater Morphometric Analysis
 
-### 2. Warrington Flood Risk Assessment (GIS)
-* **Overview:** Spatial analysis mapping flood alert areas and vulnerable infrastructure in Warrington, UK.
-* **Skills/Tools:** ArcGIS Online, Vector Overlay, Spatial Join, Cartographic Design.
-* **File:** `Flood risk map of Warrington (1).pdf`
+![Lunar Crater Analysis Preview](lunar_crater_preview.png)
 
-### 3. Mam Tor Geological Report
-* **Overview:** Geological field report detailing the structural and stratigraphical features of the Mam Tor region.
-* **Skills/Tools:** Field Mapping, Structural Geology, Stratigraphy.
-* **File:** `Mam tor report 11574499 EART11300.pdf`
+* **Overview:** A detailed investigation of lunar cratering mechanics, shock metamorphism, and surface dynamics. This project utilized remote sensing datasets to correlate field observations with planetary impact dynamics.
+* **Technical Skills:** Lunar QuickMap, Planetary Geology, Impact Cratering Analysis, Remote Sensing.
+* **Full Report:** [📄 Read the Lunar Crater Analysis Project](Lunar_Crater_Analysis_Project.pdf)
+
+---
+
+## 2. Warrington Flood Risk Assessment
+
+![Warrington Flood Map Preview](warrington_map_preview.png)
+
+* **Overview:** A comprehensive GIS spatial analysis project processing Environment Agency datasets to model high-risk flood inundation zones and structural vulnerability in Warrington, UK. 
+* **Technical Skills:** ArcGIS Online, Vector Overlay, Spatial Join, Proximity Analysis, Cartographic Design.
+* **Full Map:** [📄 View the Warrington Flood Risk GIS Map](Warrington_Flood_Risk_GIS_Map.pdf)
+
+---
+
+## 3. Mam Tor Structural Geology & Field Report
+
+![Mam Tor Field Report Preview](mam_tor_preview.png)
+
+* **Overview:** A rigorous geological field report detailing the structural and stratigraphical features of the Mam Tor region, including detailed structural cross-sections and lithological analysis.
+* **Technical Skills:** Field Mapping, Structural Geology, Stratigraphic Logging, Sedimentary Analysis.
+* **Full Report:** [📄 Read the Mam Tor Geological Field Report](Mam_Tor_Geological_Field_Report.pdf)
+
