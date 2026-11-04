@@ -13,7 +13,6 @@ Welcome to my portfolio. This repository contains selected academic reports, GIS
 * **Overview:** Spatial analysis mapping flood alert areas and vulnerable infrastructure in Warrington, UK.
 * **Skills/Tools:** ArcGIS Online, Vector Overlay, Spatial Join, Cartographic Design.
 * **File:** `Flood risk map of Warrington (1).pdf`
-* ![Warrington Map](Flood risk map of Warrington (1).pdf)
 
 ### 3. Mam Tor Geological Report
 * **Overview:** Geological field report detailing the structural and stratigraphical features of the Mam Tor region.
