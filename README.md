@@ -4,7 +4,7 @@ Welcome to my academic portfolio. This repository highlights key projects comple
 
 ## 1. Lunar Crater Morphology Analysis
 
-[![Lunar Crater Analysis Preview](image_link_here)]
+[![Lunar Crater Analysis Preview](lunar simple complex transtion.png)]
 
 * **Overview:** An investigation into the scaling relationships of lunar crater diameter and depth, comparing crater morphology between basaltic mare and anorthositic highland terrains. This project utilized Lunar Quickmap to measure 591 craters and map power-law behaviors across simple and complex crater types.
 * **Technical Skills:** Lunar QuickMap, Planetary Geology, Impact Cratering Analysis, Remote Sensing.
