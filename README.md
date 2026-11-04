@@ -2,9 +2,8 @@ Welcome to my academic portfolio. This repository highlights key projects comple
 
 ---
 
-## 1. Lunar Crater Morphology Analysis
+## 1. Investigation of crater scaling relationships in lunar highland and mare terrain  
 
-[![Lunar Crater Analysis Preview](lunar simple complex transtion.png)]
 
 * **Overview:** An investigation into the scaling relationships of lunar crater diameter and depth, comparing crater morphology between basaltic mare and anorthositic highland terrains. This project utilized Lunar Quickmap to measure 591 craters and map power-law behaviors across simple and complex crater types.
 * **Technical Skills:** Lunar QuickMap, Planetary Geology, Impact Cratering Analysis, Remote Sensing.
@@ -23,7 +22,7 @@ Welcome to my academic portfolio. This repository highlights key projects comple
 
 ---
 
-## 3. Mam Tor Acid Rock Drainage & Field Report
+## 3. Investigation of acid rock drainage at Mam Tor
 
 
 * **Overview:** A field report examining whether Acid Rock Drainage (ARD) is responsible for variations in water chemistry around Mam Tor. The study involved testing water chemistry at five localities using pH probes and photometers to link groundwater acidity and dissolved iron concentrations to local geology and exposed mudstone.
