@@ -14,7 +14,8 @@ Welcome to my academic portfolio. This repository highlights key projects comple
 
 ## 2. Warrington Flood Risk Assessment
 
-[![Warrington Flood Map Preview]()]
+[![Warrington Flood Map Preview](<img width="421" height="297" alt="image" src="https://github.com/user-attachments/assets/1fedbc6f-cfc1-41a5-9a3f-6ec3909ab8fb" />
+)]
 
 * **Overview:** A cartographic mapping project detailing flood risk zones across the Warrington area. It identifies open rivers and categorizes local infrastructure vulnerability, highlighting the specific risk breakdown for "important buildings" such as education, religious, and medical facilities located within flood zones.
 * **Technical Skills:** ArcGIS Online, Vector Overlay, Spatial Join, Proximity Analysis, Cartographic Design.
