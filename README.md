@@ -1,4 +1,4 @@
-Welcome to my academic portfolio. This portfolio highlights key projects completed during my studies at the University of Manchester and Arizona State University, showcasing my expertise in planetary science, GIS spatial analysis, and field mapping.
+Welcome to my academic portfolio. This page highlights key projects completed during my studies at the University of Manchester and Arizona State University, showcasing my expertise in planetary science, GIS spatial analysis, and field mapping.
 
 ---
 
